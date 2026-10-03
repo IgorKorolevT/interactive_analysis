@@ -1,0 +1,6 @@
+jupyter
+ipywidgets
+pandas
+matplotlib
+numpy
+ipykernel
